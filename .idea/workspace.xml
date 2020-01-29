@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9dbbe4a-a1a5-469d-ab30-76c73af00e88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WVZDw7ddXtCP2OF3yLRcfg1vmk" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/maqsoodshah/static/sass" />
+      <recent name="$PROJECT_DIR$/maqsoodshah/static" />
+      <recent name="$PROJECT_DIR$/maqsoodshah/media" />
+      <recent name="$PROJECT_DIR$/maqsoodshah" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/maqsoodshah/static/fonts" />
+      <recent name="$PROJECT_DIR$/maqsoodshah/static/fonts/icomoon" />
+      <recent name="$PROJECT_DIR$/maqsoodshah/static/images" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9dbbe4a-a1a5-469d-ab30-76c73af00e88" name="Default Changelist" comment="" />
+      <created>1579236606483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579236606483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1203" y="346" width="510" height="387" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579973252137">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="1203" y="346" width="510" height="387" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.988@0.27.1920.988" timestamp="1579973252137" />
+    <state x="2405" y="346" width="488" height="387" key="#com.intellij.fileTypes.FileTypeChooser/0.27.3840.988@0.27.3840.988" timestamp="1579772814690" />
+    <state x="280" y="211" width="624" height="535" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579754219251">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="280" y="211" width="624" height="535" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.988@0.27.1920.988" timestamp="1579754219251" />
+    <state x="390" y="274" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579591725962">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="390" y="274" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.988@0.27.1920.988" timestamp="1579591725962" />
+    <state x="2514" y="166" key="SettingsEditor" timestamp="1580295360116">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="594" y="179" key="SettingsEditor/0.27.1920.986/1920.0.1920.1080@0.27.1920.986" timestamp="1580293199532" />
+    <state x="2514" y="166" key="SettingsEditor/0.27.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580295360116" />
+    <state x="895" y="167" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1579762931706" />
+    <state x="1920" y="167" key="SettingsEditor/0.27.3840.988@0.27.3840.988" timestamp="1579775448197" />
+    <state x="616" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1580292701306">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="616" y="347" key="com.intellij.ide.util.TipDialog/0.27.1920.986/1920.0.1920.1080@0.27.1920.986" timestamp="1580292701306" />
+    <state x="2533" y="157" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579242711074">
+      <screen x="0" y="27" width="3840" height="988" />
+    </state>
+    <state x="2533" y="157" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.3840.988@0.27.3840.988" timestamp="1579242711074" />
+    <state x="626" y="149" width="752" height="855" key="find.popup" timestamp="1579765157609">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="626" y="149" width="752" height="855" key="find.popup/0.27.1920.988@0.27.1920.988" timestamp="1579765157609" />
+  </component>
+</project>

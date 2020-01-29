@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>success</title>
+</head>
+<body>
+{% if messages %}
+    {% for message in messages %}
+        <div class="alert {% if message.tags %}alert-{{ message.tags }}{% endif %}" role="alert">{{ message }}</div>
+    {% endfor %}
+{% endif %}
+<br>
+<table>
+    <tr>
+        <th>subject:</th>
+        <td>{{data.subject}}</td>
+    </tr>
+    <tr>
+        <th>message:</th>
+        <td>{{data.message}}</td>
+    </tr>
+    <tr>
+        <th>From:</th>
+        <td>{{data.from_email}}</td>
+    </tr>
+    <tr>
+        <th>To:</th>
+        <td>{{data.to_email}}</td>
+    </tr>
+</table>
+</body>
+</html>
