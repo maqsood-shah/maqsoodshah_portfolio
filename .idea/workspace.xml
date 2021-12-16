@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f9dbbe4a-a1a5-469d-ab30-76c73af00e88" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maqsoodshah/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/maqsoodshah/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maqsoodshah/migrations/0002_remove_mails_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/maqsoodshah/migrations/0002_remove_mails_name.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maqsoodshah/static/media/MAQSOOD_SHAH_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/maqsoodshah/static/media/MAQSOOD_SHAH_CV.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maqsoodshah/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maqsoodshah/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,27 +30,29 @@
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/XPN_Automation" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/maqsoodshah/static/sass" />
-      <recent name="$PROJECT_DIR$/maqsoodshah/static" />
-      <recent name="$PROJECT_DIR$/maqsoodshah/media" />
-      <recent name="$PROJECT_DIR$/maqsoodshah" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/maqsoodshah/static/fonts" />
       <recent name="$PROJECT_DIR$/maqsoodshah/static/fonts/icomoon" />
       <recent name="$PROJECT_DIR$/maqsoodshah/static/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shahm\PycharmProjects\maqs_portfolio\maqsoodshah\static\media" />
+      <recent name="$PROJECT_DIR$/maqsoodshah/static/sass" />
+      <recent name="$PROJECT_DIR$/maqsoodshah/static" />
+      <recent name="$PROJECT_DIR$/maqsoodshah/media" />
+      <recent name="$PROJECT_DIR$/maqsoodshah" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -62,6 +67,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -72,8 +78,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579236606483</updated>
+      <workItem from="1639681975632" duration="206000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
